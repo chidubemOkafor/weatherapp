@@ -1,0 +1,147 @@
+.App {
+  height: screen;
+  width: screen;
+  align-items: center;
+}
+
+ .container {
+  background-color: rgb(0, 0, 0,0.2);
+  backdrop-filter: blur(10px);
+  padding: 30px;
+  border-radius: 10px;
+  margin: auto;
+  box-shadow: #2d3747;
+
+} 
+
+.inputDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+
+.Input {
+  width: 250px;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: #2d3747;
+  opacity: 40%;
+  padding-left: 20px;
+  border: none;
+  outline: none;
+  color: white;
+} 
+
+.notExist {
+  width: 340px;
+  background-color: rgba(255, 0, 0, 0.651);
+  color: rgb(89, 1, 1);
+  height: 30px;
+  border-radius: 10px;
+  /* border-color: rgb(89, 1, 1);
+  border-width: 5px;
+  border-style: dashed; */
+  font-weight: bold;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchIcon {
+  background-color: #2d3747;
+  border-radius: 50px;
+  height: 20px;
+  width: 20px;
+  color: aliceblue;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+.searchIcon:hover {
+  color: beige;
+  background-color: black;
+}
+
+.summary {
+  color: white;
+  background-color: #2d3747;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 20em;
+}
+
+.countryText {
+  color: rgb(250, 234, 6);
+  padding-left: 5px;
+}
+
+.country {
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.mainCloudDiv {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.degree {
+  color: white;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.cloudsDiv {
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+}
+
+.cloudIcon {
+  height: 60px;
+  width: 60px;
+  color: rgb(250, 234, 6);
+ 
+}
+
+.cloudType {
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.rightCloud {
+  color: white;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.windIcon {
+  color: rgb(250, 234, 6);
+  height: 30px;
+  width: 30px;
+}
+
+.wind {
+  align-items: center;
+}
+
+.github {
+  display: flex;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  padding-top: 30px;
+}
+
+.motiondiv {
+  background-color: rgb(255, 0, 0);
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
