@@ -1,9 +1,7 @@
 # this is a weather app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-<img class="image" width="959" alt="weatherapp" src="https://github.com/Okafor-dubem/weatherapp/assets/93622341/a51bf605-6d3c-44db-91e2-0bb0097f5773">
-
+<img width="959" alt="weatherapp" src="https://github.com/Okafor-dubem/weatherapp/assets/93622341/d1a65de2-1aef-434e-8f12-1405767559c8">
 ## Available Scripts
 
 In the project directory, you can run:
